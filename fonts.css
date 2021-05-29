@@ -40,7 +40,7 @@
 }
 
 /* github */
-.highlight pre, .highlight .blob-code-inner {
+.highlight pre, pre, .highlight .blob-code-inner, .previewable-comment-form textarea {
   font-family: 'Fira Code' !important;
 }
 

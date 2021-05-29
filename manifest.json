@@ -23,6 +23,6 @@
   "permissions": ["activeTab"],
   "description": "A chrome extension that brings FiraCode font to github's code blocks.",
   "icons": {
-    "128": "images/icon128.png"
+    "128": "images/128x128.png"
   }
 }
